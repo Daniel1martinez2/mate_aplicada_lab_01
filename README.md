@@ -1,4 +1,11 @@
 #  Laboratorio # 1
+## Integrantes:
+- _Miguel Perez_
+- _Sebastián Márquez_
+- _Daniel Martínez Villegas_
+- _Mariana Lizcano_
+
+
 En grupos de trabajo: Construir un simulador de **Cajero automático.**
 
 El simulador debe contener las funciones básicas como
